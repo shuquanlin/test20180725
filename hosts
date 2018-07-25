@@ -1,0 +1,41 @@
+# Copyright (c) 1993-1999 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+140.143.116.173 admin-server.newbeescm.com
+    140.143.116.173 tms-biz-server-swagger.newbeescm.com
+	140.143.116.173 tms-capacity-server-swagger.newbeescm.com
+	140.143.116.173 tms-web-server-swagger.newbeescm.com
+	140.143.116.173 tms-web-swagger.newbeescm.com
+	140.143.116.173 tms-framework-logger-swagger.newbeescm.com
+    140.143.116.173 tms-finance-server-swagger.newbeescm.com	
+	
+	140.143.49.179 eureka30.newbeescm.com
+	192.168.177.58 tms-capacity-server-swagger.hivescm.com
+    192.168.177.182 eureka182.beescm.cn
+    192.168.177.183 eureka183.beescm.cn
+    192.168.177.94 si.hivescm.com
+	192.168.177.58 tms-capacity-server-swagger.hivescm.com 
+	192.168.177.71 tms-web-swagger.hivescm.com
+	192.168.177.71 tms-billcenter-server-swagger.hivescm.com 
+	192.168.176.3 framework-logger.hivescm.com
+	192.168.177.71 tms-finance-server-swagger.hivescm.com 
+	192.168.177.71 tms-base-server-swagger.hivescm.com
+	
+	140.143.116.173 code-service-swagger.newbeescm.com
+	
+	192.168.176.3 code-service-swagger.hivescm.com
